@@ -14,7 +14,8 @@ Desktop application that parses Windows Battery Report (`.html`) files and visua
 # How to use the program 
 
  - Download zip file or copy paste the code from here
-
+ - prerequisities
+   
         pip install -r requirements.txt in powershell
  
  - To get BatteryReport.html
